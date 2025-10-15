@@ -1,17 +1,13 @@
 # 🚀 The Data Analysis Journey: 5-Week Bootcamp
 
-<div align="center">
-
 **DATAI Club @ ENSAH Presents**
 
 *From Zero to Data Analyst in Just 5 Weeks*
 
-[![ENSAH](https://img.shields.io/badge/ENSAH-Al%20Hoceima-red)](https://github.com)
-[![DATAI Club](https://img.shields.io/badge/Club-DATAI-blue)](https://github.com)
-[![Beginner Friendly](https://img.shields.io/badge/Level-All%20Welcome-green)](https://github.com)
-[![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](https://github.com)
-
-</div>
+[![ENSAH](https://img.shields.io/badge/ENSAH-Al%20Hoceima-red)](#)
+[![DATAI Club](https://img.shields.io/badge/Club-DATAI-blue)](#)
+[![Beginner Friendly](https://img.shields.io/badge/Level-All%20Welcome-green)](#)
+[![Free](https://img.shields.io/badge/Price-FREE-brightgreen)](#)
 
 ---
 
@@ -89,14 +85,16 @@ DATAI Club is launching an intensive 5-week bootcamp where you'll learn the exac
 
 By Week 5, you'll have:
 
-✅ **Portfolio Projects** - Show employers what you can do  
-✅ **Certificate from DATAI Club** - Add it to your LinkedIn  
-✅ **Real Skills** - Not just theory, actual hands-on experience  
-✅ **Study Group** - New friends who share your interests  
-✅ **Mentorship** - Direct access to experienced club members  
-✅ **Career Guidance** - Tips for internships and job hunting  
+- ✅ **Portfolio Projects** - Show employers what you can do  
+- ✅ **Certificate from DATAI Club** - Add it to your LinkedIn  
+- ✅ **Real Skills** - Not just theory, actual hands-on experience  
+- ✅ **Study Group** - New friends who share your interests  
+- ✅ **Mentorship** - Direct access to experienced club members  
+- ✅ **Career Guidance** - Tips for internships and job hunting  
 
 ---
+
+## 🔧 What You Need
 
 ### You DON'T Need:
 - ❌ Programming experience
@@ -107,6 +105,7 @@ By Week 5, you'll have:
 ### You DO Need:
 - ✅ A laptop
 - ✅ Motivation to learn
+
 ---
 
 ## 📅 Schedule & Format
@@ -142,7 +141,7 @@ Our instructors are ENSAH students who've already mastered these skills through 
 
 ### Proven Success
 DATAI Club members have landed internships at:
-- Tech companies Like Oracle,IBM...
+- Tech companies like Oracle, IBM...
 - International remote positions
 - Research labs
 - Startup projects
@@ -150,26 +149,22 @@ DATAI Club members have landed internships at:
 **You could be next!**
 
 ---
-### Installation (Don't Worry, We'll Guide You)
 
-```bash
-# We'll do this together in Week 1
-# Just make sure you have:
+## 💻 Installation
+
+We'll do this together in Week 1. Just make sure you have:
 - Python installed (free)
 - Power BI Desktop (free for students)
 - A text editor (VS Code - free)
-```
 
 ---
 
 ## 📂 Course Materials
 
-```
 Everything will be available on:
-📁 GitHub repository (all code and exercises)
-📱 WhatsApp group (quick questions)
-📧 Email updates (don't miss anything)
-```
+- 📁 GitHub repository (all code and exercises)
+- 📱 WhatsApp group (quick questions)
+- 📧 Email updates (don't miss anything)
 
 ---
 
@@ -179,7 +174,7 @@ Everything will be available on:
 - 📧 Email: [club email]
 - 📱 WhatsApp: [number]
 - 📍 Office: [location at ENSAH]
-- 🕐 Office Hours: [every Wednesday from 7pm -> 9pm and Saturday from 9pm -> 11pm]
+- 🕐 Office Hours: every Wednesday from 7pm → 9pm and Saturday from 9pm → 11pm
 
 **Follow us:**
 - Instagram: @datai_club
@@ -198,12 +193,9 @@ We built this bootcamp specifically for our fellow students. No corporate fluff,
 4. **Real community** - Make friends while learning
 5. **Free forever** - Education should be accessible
 
-
 ---
 
-<div align="center">
-
-### 🔥 Your Journey Starts Here 🔥
+## 🔥 Your Journey Starts Here
 
 **5 weeks. Real skills. Zero cost.**
 
@@ -219,8 +211,6 @@ We built this bootcamp specifically for our fellow students. No corporate fluff,
 
 [![Instagram](https://img.shields.io/badge/Instagram-@datai__club-E4405F?style=social&logo=instagram)](https://www.instagram.com/datai_club/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DATAI%20Club-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/company/datai-club/)
-
-</div>
 
 ---
 
